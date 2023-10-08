@@ -1,0 +1,3 @@
+imageurlpath: "external-files/images.txt"
+batchsize: 25
+storagerootpath: "/mnt/d/go-workspace/src/all_repo/getsafe/image-batch-download"
